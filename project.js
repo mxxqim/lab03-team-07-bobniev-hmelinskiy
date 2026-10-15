@@ -5,7 +5,7 @@ const project = {
   language: "uk",
   itemsPerPage: 10,
   welcomeMessage: "Welcome",
-  dateFormat: "MM/DD/YYYY",
+  dateFormat: "DD-MM-YYYY",
   sortOrder: "ascending",
   accessLevel: "student",
   displayMode: "compact"
